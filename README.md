@@ -7,7 +7,7 @@
 ```
 
 ```bash
->Command BOT $
+
 ```
 
 ## Install the dependencies:
